@@ -14,7 +14,7 @@ alert(
     finalResult +
     " of 7"
 );
-alert(' hi bella was here');
+alert("hi bella was here");
 function questions() {
   alert("I will ask you some yes/no questions is that ok " + userName + " ?");
   var questionArray = [
